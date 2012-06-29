@@ -15,10 +15,13 @@ Features
 
 Install "Simple Theme Plugin" for Jenkins
 
-```ruby
+```bash
 cd /var/lib/jenkins/userContent
-git clone REPOS
+git clone git://github.com/zealot128/pludoni-jenkins-theme.git
 ```
 
 put css in Jenkins Simple Theme Page:
+
+```
 http://SERVER/userContent/pludoni-jenkins-theme/stylesheets/style.css
+```
