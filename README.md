@@ -11,6 +11,10 @@ Features
 * Font-Stack for headlines and body
 * removes jenkins background picture (sorry!)
 
+![Preview of Console](https://github.com/pludoni/pludoni-jenkins-theme/raw/master/images/preview1.png "Preview of Console")
+
+![Preview of Font-Stack](https://github.com/pludoni/pludoni-jenkins-theme/raw/master/images/preview2.png "Preview of Font-Stack")
+
 ## Install
 
 Install "Simple Theme Plugin" for Jenkins
